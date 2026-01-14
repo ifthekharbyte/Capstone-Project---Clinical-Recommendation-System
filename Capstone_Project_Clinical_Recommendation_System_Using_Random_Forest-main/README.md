@@ -26,8 +26,8 @@ A full-stack machine learning web application that provides clinical recommendat
 
 ### 1. Clone the Repository
 
-git clone https://github.com/iftekhariqbalenan/Capstone_Project_Clinical_Recommendation_System_Using_RandomForest.git
-cd Capstone_Project_Clinical_Recommendation_System_Using_RandomForest
+git clone https://github.com/ifthekharbyte/Capstone-Project---Clinical-Recommendation-System.git
+cd Capstone-Project---Clinical-Recommendation-System
 
 ### 2. Create and Activate a Virtual Environment (Optional but Recommended)
 python -m venv venv
